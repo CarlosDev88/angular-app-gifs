@@ -2,6 +2,10 @@
 
 En este proyecto se hace petición a un API externo con l fin de practicar conceptos como:
 
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
 
 -Modularización de la aplicación
 *Estructura de la aplicación de media a gran escapa
