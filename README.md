@@ -12,7 +12,7 @@ En este proyecto se hace petición a un API externo con l fin de practicar conce
 - Peticiones HTTP
 
 
-
+![alt text](https://github.com/CarlosDev88/angular-app-gifs/blob/main/src/assets/angular-giff_app.gif)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
