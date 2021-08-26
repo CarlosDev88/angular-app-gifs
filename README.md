@@ -2,7 +2,7 @@
 
 En este proyecto se hace petición a un API externo con l fin de practicar conceptos como:
 - Modularización de la aplicación
-- Estructura de la aplicación de media a gran escapa
+- Estructura de la aplicación en modulos y componentes
 - Componentes
 - ViewChild
 - Servicios
