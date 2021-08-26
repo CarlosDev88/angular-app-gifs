@@ -11,6 +11,9 @@ En este proyecto se hace petición a un API externo con l fin de practicar conce
 - LocalStorage
 - Peticiones HTTP
 
+![alt text](https://github.com/CarlosDev88/angular-app-gifs/blob/main/src/assets/captura.png)
+
+##--------------------------------------------------------------------------------------------------------
 
 ![alt text](https://github.com/CarlosDev88/angular-app-gifs/blob/main/src/assets/angular-giff_app.gif)
 
